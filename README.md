@@ -2,7 +2,7 @@
 
 ## Documentation
 
-You can browse documentation on the [Terraform provider registry](https://registry.terraform.io/providers/idealo/controltower/latest/docs).
+You can browse documentation on the [Terraform provider registry](https://registry.terraform.io/providers/ottonova/controltower/latest/docs).
 
 ## Developing the Provider
 
